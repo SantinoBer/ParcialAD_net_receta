@@ -1,0 +1,6 @@
+@Bertotti.WebApi_HostAddress = http://localhost:5220
+
+GET {{Bertotti.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
